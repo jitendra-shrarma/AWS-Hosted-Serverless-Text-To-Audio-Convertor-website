@@ -1,6 +1,6 @@
 # AWS Hosted Serverless Text-To-Audio Convertor Website
 
-![My Website](my-website.png)
+![My Website](my-website.PNG)
 
 This project is a serverless text-to-audio conversion website hosted on AWS. It allows users to convert text into audio files using various voices and languages.
 
